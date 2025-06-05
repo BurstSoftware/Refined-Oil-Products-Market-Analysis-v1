@@ -123,5 +123,4 @@ elif analysis_type == "Market Commentary":
 st.markdown("""
 ---
 **About**: This app is designed for the Commodities Research Team to analyze refined oil product markets, forecast prices, and provide investment insights. 
-Contact the Macro Research team for custom analyses or data integration.
 """)
